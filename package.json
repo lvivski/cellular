@@ -1,0 +1,22 @@
+{
+	"name": "celluloid",
+	"version": "0.0.1",
+	"author": "Yehor Lvivski <lvivski@gmail.com>",
+	"description": "FRP",
+	"keywords": [
+		"frp",
+		"reactive",
+		"cell"
+	],
+	"scripts": {
+		"prepublish": "make -B"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/lvivski/celluloid.git"
+	},
+	"devDependencies": {
+		"uglify-js": "*"
+	},
+	"license": "MIT"
+}
