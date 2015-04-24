@@ -1,14 +1,14 @@
 {
-	"name": "celluloid",
-	"version": "0.0.1",
-	"main": [
-		"celluloid.js"
-	],
-	"ignore": [
-		".*",
-		"src",
-		"Makefile",
-		"index.js",
-		"package.json"
-	]
+  "name": "celluloid",
+  "version": "0.0.1",
+  "main": [
+    "celluloid.js"
+  ],
+  "ignore": [
+    ".*",
+    "src",
+    "Makefile",
+    "index.js",
+    "package.json"
+  ]
 }
