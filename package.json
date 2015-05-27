@@ -1,6 +1,6 @@
 {
   "name": "celluloid",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "author": "Yehor Lvivski <lvivski@gmail.com>",
   "description": "FRP",
   "keywords": [
@@ -9,7 +9,11 @@
     "cell"
   ],
   "scripts": {
-    "prepublish": "make -B"
+    "prepublish": "make -B",
+    "test": "node test"
+  },
+  "dependencies": {
+    "subsequent": "*"
   },
   "repository": {
     "type": "git",

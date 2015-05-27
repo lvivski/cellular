@@ -2,6 +2,7 @@ JS_COMPILER ?= ./node_modules/uglify-js/bin/uglifyjs
 FILES = \
 	src/celluloid.js \
 	src/cell.js \
+	src/util.js \
 	
 all: \
 	celluloid.js \

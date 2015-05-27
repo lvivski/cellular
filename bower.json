@@ -1,6 +1,6 @@
 {
   "name": "celluloid",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "main": [
     "celluloid.js"
   ],
@@ -10,5 +10,8 @@
     "Makefile",
     "index.js",
     "package.json"
-  ]
+  ],
+  "dependencies": {
+    "subsequent": "*"
+  }
 }
